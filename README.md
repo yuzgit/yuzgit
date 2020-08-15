@@ -1,3 +1,4 @@
-### 🍊 yuzgit
-💊 seedlab - member 2020〜  
-🤍 mochix - member 2020〜
+## 🍊 yuzgit
+### Team
+💊 SeedLab - member 2020〜  
+🤍 MochiX - member 2020〜
