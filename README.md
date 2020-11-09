@@ -1,5 +1,5 @@
 ### 🍊 yuzgit
-<img width='150px' src='https://user-images.githubusercontent.com/39664888/98546064-bda6b980-22d9-11eb-98e7-46cdc624c80b.png' />
+<img width='200px' src='https://user-images.githubusercontent.com/39664888/98546921-c51a9280-22da-11eb-91b2-869eda3529f5.png' />
 
 #### Interest
 ✍️ EdTech
