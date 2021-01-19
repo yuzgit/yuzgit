@@ -10,7 +10,8 @@ Service: https://donbler.com
 About: https://donbler.com/about  
 Twitter: https://twitter.com/Donbler_jp  
 Company: https://company.donbler.com  
-PR: https://prtimes.jp/main/html/searchrlp/company_id/69180　　
+PR: https://prtimes.jp/main/html/searchrlp/company_id/69180  
+Github Organization: https://github.com/donbler
 
 ### 👦 Individual
 Note: https://note.com/___function  
@@ -18,3 +19,5 @@ Twitter: https://twitter.com/___function
 
 ### 👀 Mochix
 Homepage: https://mochix.net
+Twitter: https://twitter.com/_mochix
+Github Organization: https://github.com/mochi-x
