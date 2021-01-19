@@ -18,6 +18,6 @@ Note: https://note.com/___function
 Twitter: https://twitter.com/___function  
 
 ### 👀 Mochix
-Homepage: https://mochix.net
-Twitter: https://twitter.com/_mochix
+Homepage: https://mochix.net  
+Twitter: https://twitter.com/_mochix  
 Github Organization: https://github.com/mochi-x
