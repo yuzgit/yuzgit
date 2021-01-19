@@ -10,7 +10,8 @@ Service: https://donbler.com
 About: https://donbler.com/about  
 Twitter: https://twitter.com/Donbler_jp  
 Company: https://company.donbler.com  
-### 🍖 Other
-Note: https://note.com/___function  
-PR: https://prtimes.jp/main/html/searchrlp/company_id/69180
+PR: https://prtimes.jp/main/html/searchrlp/company_id/69180　　
 
+### 👦 Individual
+Note: https://note.com/___function  
+Twitter: https://twitter.com/___function  
