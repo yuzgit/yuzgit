@@ -15,3 +15,6 @@ PR: https://prtimes.jp/main/html/searchrlp/company_id/69180　　
 ### 👦 Individual
 Note: https://note.com/___function  
 Twitter: https://twitter.com/___function  
+
+### 👀 Mochix
+Homepage: https://mochix.net
