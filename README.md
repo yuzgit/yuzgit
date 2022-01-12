@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm yuzgit!
 ### 💨 Current Work
 - Founder at Donbler (2020〜)
-- Cream Soda Products　(2022)
+- Cream Soda Products (2022〜)
 
 ### 🎁 Products
 - [Donbler](https://donbler.com): Programming Learning Platform.
